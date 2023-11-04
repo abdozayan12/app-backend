@@ -24,7 +24,7 @@
 
 ## 📖 Rails API <a name="about-project"></a>
 
-**Rails API** is a Ruby on Rails API, serving as the backend for a full-stack web application. It offers the capability to fetch and display random greetings from a collection of messages.<br>**Here is the [link](https://github.com/meryemsanem/hello-react-front-end/tree/741c67326e6581e6efeecfb1ff204dc7a19d2c44) for the frontend.**
+**Rails API** is a Ruby on Rails API, serving as the backend for a full-stack web application. It offers the capability to fetch and display random greetings from a collection of messages.<br>**Here is the [link]() for the frontend.**
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -82,7 +82,6 @@ it will install the required gemfile for running the project
 <!-- AUTHORS -->
 
 ## 👥 Author <a name="author"></a>
-
 
 👤 **Abd elhakim Zayan**
 
