@@ -1,6 +1,6 @@
 class Api::V1::GreetingsController < ApplicationController
   def index
-    @greetings = Greeting.all
-    render json: @greetings, status: :ok
+    @greeting = Greeting.order("RANDOM()").first
+    render json: @greeting, status: :ok
   end
 end
