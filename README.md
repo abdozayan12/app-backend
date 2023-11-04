@@ -1,12 +1,12 @@
  <div align="center">
-  <h1><b>Rails API</b></h1>
+  <h1><b>app-backend</b></h1>
 </div>
 
 <!-- TABLE OF CONTENTS -->
 
 ## 📗 Table of Contents
 
-- [📖 Rails API](#-about-project)
+- [📖 app-backend](#-about-project)
   - [🛠 Built With](#-built-with)
   - [🌟 Key Features](#-key-features)
   - [💻 Getting Started](#-getting-started)
@@ -24,7 +24,7 @@
 
 ## 📖 Rails API <a name="about-project"></a>
 
-**Rails API** is a Ruby on Rails API, serving as the backend for a full-stack web application. It offers the capability to fetch and display random greetings from a collection of messages.<br>**Here is the [link]() for the frontend.**
+**app-backend** is a Ruby on Rails API, serving as the backend for a full-stack web application. It offers the capability to fetch and display random greetings from a collection of messages.<br>**Here is the [link](https://github.com/abdozayan12/react-frontend) for the frontend.**
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -71,7 +71,7 @@ git clone git@github.com:abdozayan12/app-backend.git
 Install this project with:
 
 ```bash
-  cd hello-rails-back-end
+  cd app-backend
   bundle install
 ```
 
