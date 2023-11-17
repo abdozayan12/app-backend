@@ -74,8 +74,15 @@ Install this project with:
   cd app-backend
   bundle install
 ```
+it will install the required gems for running the project
 
-it will install the required gemfile for running the project
+### Usage
+
+Run this project with:
+
+``` 
+   rails s
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
